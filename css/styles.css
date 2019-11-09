@@ -112,6 +112,7 @@ colgroup.fondo {
 
 table {
     width: 60%;
+    margin: auto;
 }
 
 .act th {
